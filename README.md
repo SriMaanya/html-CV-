@@ -11,3 +11,8 @@ A responsive mini CV developed using semantic HTML to highlight professional det
 ## Technologies Used 
 - HTML5
 
+## Live Demo
+https://github.com/SriMaanya/html-CV-
+
+## Project URL
+https://roadmap.sh/projects/single-page-cv
